@@ -42,6 +42,11 @@ Contoh primitif grafik dasar adalah Titik, Garis, Segiempat, Kurva, Lingkaran, E
 # REFERENCES : 
 <img width="450" height="651" alt="image" src="https://github.com/user-attachments/assets/f9aa2a5d-e6bb-4f8e-9e6a-0051877ca376" />
 
+# MEMBUAT KUBUS BERSUSUN
+<img width="820" height="711" alt="Screenshot 2026-03-10 033323" src="https://github.com/user-attachments/assets/9f7fa7d6-9a63-4ae7-a3a8-4fd588bae340" />
+
+
+
 
 
 
