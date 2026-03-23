@@ -10,8 +10,7 @@ Declarasi Variabel Global shoulder dan elbow, push & pop shoulder dan elbow. glu
 Fungsi reshape sebagai proyeksi layar terhadap model<br>
 Fungsi keyboard sebagai input keybind dan mengeluarkan output sebagai object yang bergerak<br>
 
-# 2. Tambahkanlah telapak tangan beserta jari-jari dari lengan di atas. Telapak tangan dan 
-jari-jari tersebut bisa digerakan menggunakan keyboard!
+# 2. Tambahkanlah telapak tangan beserta jari-jari dari lengan di atas. Telapak tangan dan jari-jari tersebut bisa digerakan menggunakan keyboard!
 <img width="1050" height="618" alt="image" src="https://github.com/user-attachments/assets/125ea48d-dc84-490e-823a-2985a459399d" />
 
 # 3. Simulasikan menggunakan sumbu x,y,z bagaimana operasi yang dilakukan ketika keyboard di ketik (dalam bentuk screenshot dan milimeter blok). 
