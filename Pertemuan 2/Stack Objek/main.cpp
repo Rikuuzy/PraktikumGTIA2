@@ -81,7 +81,7 @@ int main(int argc, char *argv[])
     glutInit(&argc, argv);
     glutInitWindowSize(640,480);
     glutInitDisplayMode(GLUT_SINGLE | GLUT_RGBA);
-    glutCreateWindow("Simple");
+    glutCreateWindow("Hadrian Shandhy Yudha");
 
     glutDisplayFunc(RenderScene);
 
