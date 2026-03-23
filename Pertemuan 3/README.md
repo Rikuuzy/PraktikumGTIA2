@@ -1,14 +1,14 @@
 ﻿# PraktikumGTIA2
 # Pertemuan 3
 # Proyeksi & Animasi
-Nama : Hadrian Shandhy Yudha
-Nim : 24060124140207
+Nama : Hadrian Shandhy Yudha<br>
+Nim : 24060124140207<br>
 Lab : GTI-A2
 
 # 1. Jelaskan Bagaimana cara kerja Kode Lengan di atas!
-Declarasi Variabel Global shoulder dan elbow, push & pop shoulder dan elbow. glutWireCube sebaagai skala 3d
-Fungsi reshape sebagai proyeksi layar terhadap model
-Fungsi keyboard sebagai input keybind dan mengeluarkan output sebagai object yang bergerak
+Declarasi Variabel Global shoulder dan elbow, push & pop shoulder dan elbow. glutWireCube sebaagai skala 3d<br>
+Fungsi reshape sebagai proyeksi layar terhadap model<br>
+Fungsi keyboard sebagai input keybind dan mengeluarkan output sebagai object yang bergerak<br>
 
 # 2. Tambahkanlah telapak tangan beserta jari-jari dari lengan di atas. Telapak tangan dan 
 jari-jari tersebut bisa digerakan menggunakan keyboard!
@@ -20,11 +20,11 @@ jari-jari tersebut bisa digerakan menggunakan keyboard!
 <img width="999" height="842" alt="Screenshot 2026-03-24 000535" src="https://github.com/user-attachments/assets/16e5aeaa-ae70-4040-bced-c3a49a891651" />
 
 # KEYBINDING Keyboard
-s | S : Shoulder
-e | E : Elbow
-w | W : Wrist
-f | F : Index Finger
-g | G : Middle Finger
-h | H : Ring Finger
-j | J : Pinky
+s | S : Shoulder<br>
+e | E : Elbow<br>
+w | W : Wrist<br>
+f | F : Index Finger<br>
+g | G : Middle Finger<br>
+h | H : Ring Finger<br>
+j | J : Pinky<br>
 t | T : Thumb
